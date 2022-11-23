@@ -1,2 +1,2 @@
 # OnixTetris
-Onix Tetris Game Python Pygame
+Use Python 3 and Pygame!
